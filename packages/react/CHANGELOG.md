@@ -1,5 +1,17 @@
 # @guilherme-ignite-design-system/react
 
+## 2.0.3
+
+### Patch Changes
+
+- adjust package.json
+
+## 2.0.2
+
+### Patch Changes
+
+- ee470aa: Add Toast and Tooltip component
+
 ## 2.0.1
 
 ### Patch Changes
