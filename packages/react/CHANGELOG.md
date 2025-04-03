@@ -1,5 +1,11 @@
 # @guilherme-ignite-design-system/react
 
+## 2.0.5
+
+### Patch Changes
+
+- adjust styles on Tooltip
+
 ## 2.0.4
 
 ### Patch Changes

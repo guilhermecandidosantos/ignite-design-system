@@ -7,6 +7,7 @@ export const TooltipContent = styled(Content, {
   color: '$gray100',
   padding: '$3 $4',
   borderRadius: '$sm',
+  fontFamily: '$default'
 })
 
 export const TooltipArrow = styled(Arrow, {
